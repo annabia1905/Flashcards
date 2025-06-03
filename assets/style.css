@@ -17,15 +17,17 @@ footer{
  }
  
  #container {
-    display: flex;
+    display: flex;_conteudo 
+    text-align: center;
+    background-color; black;
  }
 
  .cartao {
-    margin: 1rem 1rem;
-    background-color: lawngreen;
-    height: 20rem;
-    flex-grow: 1;
-    flex-basis: calc(33- 0.6rem);
+   margin: 1rem 1rem;
+   background-color: black;
+   height: 20rem;
+   flex-grow: 1;
+   flex-basis: calc(33%- 0.6rem);
  }
 
  .cartao_conteudo {
