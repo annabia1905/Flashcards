@@ -14,7 +14,5 @@ criarCartao(
     'geografia'
     'Qual é a capital do brasil'
     'Brasilía'
-    console.log( categoria, pergunta, resposta)
-    
 )
 }
